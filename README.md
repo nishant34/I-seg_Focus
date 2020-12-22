@@ -37,8 +37,7 @@ These wer the final validation result ona single scan:
 | Note              | class1| class2|class3| Avg.|
 | 20000_weights1000 | 94.53 | 90.83 | 89.60 | 91.65 |
 ```
-The model :
-![alt text](https://drive.google.com/file/d/1c3tN6dO-Sfvn0JzIemVBCyzyQxDizBmG/view?usp=sharing)
+The weights can be found [here].(https://drive.google.com/file/d/1tiqmw363R-9qfvUBcV1oG2LUUhuK_xP2/view?usp=sharing)
 
 
 
