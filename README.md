@@ -14,4 +14,8 @@ The challenge Details can be found [here](http://iseg2017.web.unc.edu/rules/resu
 * Each case has 256x256x144 MRI scan of vioxel base representation. 
 * Annotations into 4 categories are also provided for the train set.
 
+# Code_structure
+* To bring the data in .h5 format run the following code:
+
+
 
