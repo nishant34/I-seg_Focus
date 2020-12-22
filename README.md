@@ -38,6 +38,8 @@ These wer the final validation result ona single scan:
 | 20000_weights1000 | 94.53 | 90.83 | 89.60 | 91.65 |
 ```
 The weights can be found [here](https://drive.google.com/file/d/1tiqmw363R-9qfvUBcV1oG2LUUhuK_xP2/view?usp=sharing).
+The model:
+![model structure](https://github.com/nishant34/I-seg_Focus/blob/main/model.png).
 
 
 
