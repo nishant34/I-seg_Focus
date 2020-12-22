@@ -34,8 +34,8 @@ The validation can also be seen in the following [link](https://colab.research.g
 Further description along with the model image can be seen in the following [doc](https://docs.google.com/document/d/16WZNNuNzkmpq01fxrwKnV0zsz3hc9kAt/edit).
 These wer the final validation result ona single scan:
 ```javascript
-Data       | Note   | class1| class2|class3| Avg.|
-25/02/2020 | 20000_weights1000 | 94.53 | 90.83 | 89.60 | 91.65 |
+| Note              | class1| class2|class3| Avg.|
+| 20000_weights1000 | 94.53 | 90.83 | 89.60 | 91.65 |
 ```
 
 
