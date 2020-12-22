@@ -25,7 +25,7 @@ The .h5 format data extracted from this code can be found [here](https://drive.g
 
 * dataloader.py: a dataloader to load the h5 dataset.
 * metrics.py : Code for the metrics defined by MICCAI for this challenge.
-* There are 3 variants of the model.
+* There are 2 variants of the model so adjust the file while training.
 * model train files have the training code and val files have the validation code along with the model structure.
 
 The training can also be seen in the follwing [link](https://colab.research.google.com/drive/1FJ0bH1ry91Ei5dQYuhEpcY0zIrrI_vnG).
