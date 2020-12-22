@@ -16,6 +16,21 @@ The challenge Details can be found [here](http://iseg2017.web.unc.edu/rules/resu
 
 # Code_structure
 * To bring the data in .h5 format run the following code:
+```javascript
+python prepare_hdf5_cutedge.py 
+```
+Also maintain the directory structure as the orignal provided by MICCAI and adjust path value in above file.
+
+The .h5 format data extracted from this code can be found [here](https://drive.google.com/drive/u/1/folders/1C8O432hWpzUFD8z71KsFzJNdq_Ed8oSe).
+
+* dataloader.py: a dataloader to load the h5 dataset.
+* metrics.py : Code for the metrics defined by MICCAI for this challenge.
+* There are 3 variants of the model.
+* model train files have the training code and val files have the validation code along with the model structure.
+
+The training can also be seen in the follwing [link](https://colab.research.google.com/drive/1FJ0bH1ry91Ei5dQYuhEpcY0zIrrI_vnG).
+The validation can also be seen in the following [link](https://colab.research.google.com/drive/1matFu0UsngJmhKSnnoLIOndzC-PdcHPT).
+Further description along with the model image can be seen in the following [doc](https://docs.google.com/document/d/16WZNNuNzkmpq01fxrwKnV0zsz3hc9kAt/edit).
 
 
 
