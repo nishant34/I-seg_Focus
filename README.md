@@ -29,8 +29,15 @@ The .h5 format data extracted from this code can be found [here](https://drive.g
 * model train files have the training code and val files have the validation code along with the model structure.
 
 The training can also be seen in the follwing [link](https://colab.research.google.com/drive/1FJ0bH1ry91Ei5dQYuhEpcY0zIrrI_vnG).
+The train val split ratio is 9:1.
 The validation can also be seen in the following [link](https://colab.research.google.com/drive/1matFu0UsngJmhKSnnoLIOndzC-PdcHPT).
 Further description along with the model image can be seen in the following [doc](https://docs.google.com/document/d/16WZNNuNzkmpq01fxrwKnV0zsz3hc9kAt/edit).
+These wer the final validation result ona single scan:
+```javascript
+Data       | Note   | class1| class2|class3| Avg.|
+25/02/2020 | 20000_weights1000 | 94.53 | 90.83 | 89.60 | 91.65 |
+```
+
 
 
 
